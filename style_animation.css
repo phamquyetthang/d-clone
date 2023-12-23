@@ -1,0 +1,37 @@
+@media (min-width: 768px) {
+
+  #HEADLINE284,
+  #IMAGE219,
+  #BUTTON60,
+  #IMAGE222,
+  #BUTTON62,
+  #BUTTON63,
+  #GROUP184,
+  #BUTTON70,
+  #BUTTON72,
+  #GROUP216,
+  #GROUP218,
+  #GROUP220 {
+    opacity: 0 !important;
+    pointer-events: none !important;
+  }
+}
+
+@media (max-width: 767px) {
+
+  #HEADLINE284,
+  #IMAGE219,
+  #BUTTON60,
+  #IMAGE222,
+  #BUTTON62,
+  #BUTTON63,
+  #GROUP184,
+  #BUTTON70,
+  #BUTTON72,
+  #GROUP216,
+  #GROUP218,
+  #GROUP220 {
+    opacity: 0 !important;
+    pointer-events: none !important;
+  }
+}

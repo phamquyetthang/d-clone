@@ -1,0 +1,49 @@
+body {
+  direction: ltr;
+}
+
+@media (min-width: 768px) {
+  .ladi-section .ladi-container {
+    width: 960px;
+  }
+}
+
+@media (max-width: 767px) {
+  .ladi-section .ladi-container {
+    width: 420px;
+  }
+}
+
+@font-face {
+  font-family: "QXZlcnRhLVJlZVsYXIubRm";
+  src: url("https://w.ladicdn.com/5ba306eb80eb5e50093c5437/averta-regular-20230811040224-7yyew.otf")
+}
+
+@font-face {
+  font-family: "QXZlcnRhLUJvbGQubRm";
+  src: url("https://w.ladicdn.com/5ba306eb80eb5e50093c5437/averta-bold-20230811040207-o_gwe.otf")
+}
+
+@font-face {
+  font-family: "SWZWxsaWdlbnQgRGVzaWduICgQXZlcnRhURkQktUmVndWxhcivdGY";
+  src: url("https://w.ladicdn.com/5ba306eb80eb5e50093c5437/intelligent-design-avertastdcy-regular-20210526025518.otf")
+}
+
+@font-face {
+  font-family: "SWZWxsaWdlbnQgRGVzaWduICgQXZlcnRhURkQktRXhcmFaGluLmZg";
+  src: url("https://w.ladicdn.com/5ba306eb80eb5e50093c5437/intelligent-design-avertastdcy-extrathin-20210526025508.otf")
+}
+
+@font-face {
+  font-family: "QXZlcnRhLVNlbWlibxkLmZg";
+  src: url("https://w.ladicdn.com/5ba306eb80eb5e50093c5437/averta-semibold-20230811040224-aaoss.otf")
+}
+
+@font-face {
+  font-family: "QXZlcnRhLUVdHJhQmsZCvdGY";
+  src: url("https://w.ladicdn.com/5ba306eb80eb5e50093c5437/averta-extrabold-20230811040207-xxdgo.otf")
+}
+
+body {
+  font-family: "Open Sans", sans-serif
+}
